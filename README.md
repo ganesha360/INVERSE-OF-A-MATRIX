@@ -24,7 +24,8 @@ B=np.linalg.inv(A)
 print(B)
 ```
 ## Output:
-![output](./inverse%20of%20a%20matrix.png)
+![Web capture_18-1-2023_14550_lms ai saveetha ac in](https://user-images.githubusercontent.com/120884552/213123020-f5ad4de8-ea26-43fa-abcf-662ff1ca2c4f.png)
+
 
 
 ## Result:
