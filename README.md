@@ -17,15 +17,14 @@ Print result
 ## Program:
 #Program to find the inverse of a matrix.
 #Developed by: GANESH R
-#RegisterNumber:22009090
+#RegisterNumber:212222240029
 import numpy as np
 A=np.array([[2,1,1],[1,1,1],[1,-1,2]])
 B=np.linalg.inv(A)
 print(B)
 ```
 ## Output:
-![Web capture_18-1-2023_14550_lms ai saveetha ac in](https://user-images.githubusercontent.com/120884552/213123020-f5ad4de8-ea26-43fa-abcf-662ff1ca2c4f.png)
-
+![output](./MAI3.png)
 
 
 ## Result:
